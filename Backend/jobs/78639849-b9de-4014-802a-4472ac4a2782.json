@@ -1,0 +1,57 @@
+{
+  "job_id": "78639849-b9de-4014-802a-4472ac4a2782",
+  "status": "completed",
+  "message": "Question generation complete.",
+  "questions": [
+    {
+      "source": "t5",
+      "level": "Remembering: recall key facts and definitions",
+      "question": "How did Google translate Russian boards into English?"
+    },
+    {
+      "source": "t5",
+      "level": "Remembering: recall key facts and definitions",
+      "question": "Recall key facts and definitions questions from this text?"
+    },
+    {
+      "source": "t5",
+      "level": "Understanding: explain ideas or summarize concepts",
+      "question": "Explain ideas or summarize concepts from this text?"
+    },
+    {
+      "source": "t5",
+      "level": "Understanding: explain ideas or summarize concepts",
+      "question": "What are some of the most important applications of neural networks?"
+    },
+    {
+      "source": "t5",
+      "level": "Applying: use knowledge in new situations",
+      "question": "How does Generate 2 apply knowledge in new situations?"
+    },
+    {
+      "source": "t5",
+      "level": "Applying: use knowledge in new situations",
+      "question": "Use knowledge in new situations questions from this text?"
+    },
+    {
+      "source": "t5",
+      "level": "Analyzing: identify relationships or patterns",
+      "question": "Identify relationships or patterns questions from this text?"
+    },
+    {
+      "source": "t5",
+      "level": "Analyzing: identify relationships or patterns",
+      "question": "How does the neural network figure out a wrong prediction?"
+    },
+    {
+      "source": "t5",
+      "level": "Evaluating: make judgments based on criteria",
+      "question": "Make judgments based on criteria questions from this text?"
+    },
+    {
+      "source": "t5",
+      "level": "Evaluating: make judgments based on criteria",
+      "question": "Generates two judgments based on criteria questions from this text?"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "job_id": "98cb3f52-ce1b-4a3e-8106-d7e7338db0fd",
+  "status": "completed",
+  "message": "Question generation complete.",
+  "questions": [
+    {
+      "source": "gemini",
+      "level": "Unknown",
+      "question": "Here are five questions based on the lecture transcript, ordered according to Bloom's Taxonomy."
+    },
+    {
+      "source": "gemini",
+      "level": "Remembering",
+      "question": "**"
+    },
+    {
+      "source": "gemini",
+      "level": "ANN",
+      "question": "for image classification?"
+    },
+    {
+      "source": "gemini",
+      "level": "Understanding",
+      "question": "**"
+    },
+    {
+      "source": "gemini",
+      "level": "Unknown",
+      "question": "Explain in your own words why applying a filter to an image is described as being \"location invariant.\""
+    },
+    {
+      "source": "gemini",
+      "level": "Applying",
+      "question": "**"
+    },
+    {
+      "source": "gemini",
+      "level": "Unknown",
+      "question": "Given the following 4x4 feature map, calculate the output after applying a 2x2 max pooling operation with a stride of 2, as described in the lecture."
+    },
+    {
+      "source": "gemini",
+      "level": "Unknown",
+      "question": "[[6, 2, 8, 3],"
+    },
+    {
+      "source": "gemini",
+      "level": "Unknown",
+      "question": "[4, 9, 1, 5],"
+    },
+    {
+      "source": "gemini",
+      "level": "Unknown",
+      "question": "[7, 3, 12, 0],"
+    }
+  ]
+}

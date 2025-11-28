@@ -1,0 +1,28 @@
+
+🟢 Remembering: recall key facts and definitions
+Q1: How do you remember key facts and definitions from this text?
+Q2: What is the beginning point to understand how an image is made up of lots of pixels?
+
+
+🟢 Understanding: explain ideas or summarize concepts
+Q1: Generate 2 understanding: explain ideas or summarize concepts from this text?
+Q2: What is the first color that's going to be zero?
+
+
+🟢 Applying: use knowledge in new situations
+Q1: How can a computer represent two colors in a picture?
+Q2: What is the last thing you need to know about for images?
+
+
+🟢 Analyzing: identify relationships or patterns
+Q1: Generate 2 analyzing: identify relationships or patterns questions from this text?
+
+
+🟢 Evaluating: make judgments based on criteria
+Q1: What is the resolution of the image?
+Q2: What is the first step in creating an image?
+
+
+🟢 Creating: generate new ideas or propose solutions
+Q1: What is the meaning of 'generate 2 creating'?
+Q2: What is another way to generate ideas or propose solutions questions from this text?

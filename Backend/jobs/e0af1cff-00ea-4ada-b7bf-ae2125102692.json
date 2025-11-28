@@ -1,0 +1,6 @@
+{
+  "job_id": "e0af1cff-00ea-4ada-b7bf-ae2125102692",
+  "status": "error",
+  "message": "'NoneType' object has no attribute 'strip'",
+  "questions": []
+}

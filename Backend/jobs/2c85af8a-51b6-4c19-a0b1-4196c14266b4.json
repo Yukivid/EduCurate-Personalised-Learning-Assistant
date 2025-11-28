@@ -1,0 +1,57 @@
+{
+  "job_id": "2c85af8a-51b6-4c19-a0b1-4196c14266b4",
+  "status": "completed",
+  "message": "Question generation complete.",
+  "questions": [
+    {
+      "source": "gemini",
+      "level": "Unknown",
+      "question": "Of course. Since no transcript was provided, I have created a sample lecture transcript on the topic of **Photosynthesis** and based the five questions on it."
+    },
+    {
+      "source": "gemini",
+      "level": "Unknown",
+      "question": "***"
+    },
+    {
+      "source": "gemini",
+      "level": "Unknown",
+      "question": "### **Sample Lecture Transcript: Introduction to Photosynthesis**"
+    },
+    {
+      "source": "gemini",
+      "level": "Unknown",
+      "question": "\"Good morning, everyone. Today we're exploring the fundamental process that powers nearly all life on Earth: photosynthesis. The word itself comes from Greek: 'photo,' meaning light, and 'synthesis,' meaning to put together. So, photosynthesis is literally 'putting together with light.'"
+    },
+    {
+      "source": "gemini",
+      "level": "Unknown",
+      "question": "At its core, photosynthesis is the process used by plants, algae, and some bacteria to convert light energy into chemical energy. This chemical energy is stored in the form of a sugar called glucose. The three key ingredients required for this process are **sunlight**, **water**, and **carbon dioxide**."
+    },
+    {
+      "source": "gemini",
+      "level": "Unknown",
+      "question": "The process primarily occurs in the leaves of plants, specifically within tiny organelles called **chloroplasts**. These chloroplasts contain a green pigment called **chlorophyll**, which is what absorbs the sunlight and gives plants their green color."
+    },
+    {
+      "source": "gemini",
+      "level": "Unknown",
+      "question": "Let's break it down into a simple formula: Carbon Dioxide + Water + Sunlight \u2192 Glucose + Oxygen. Notice that oxygen is a byproduct. This is crucial\u2014the oxygen we breathe is a direct result of photosynthesis."
+    },
+    {
+      "source": "gemini",
+      "level": "Unknown",
+      "question": "So, you have two main stages. The first is the 'Light-Dependent Reactions,' which, as the name suggests, require sunlight to produce energy-carrying molecules. The second stage is the 'Calvin Cycle,' or the 'Light-Independent Reactions,' where that captured energy is used to convert carbon dioxide into glucose. This second stage can happen without direct light, but it relies on the products from the first stage."
+    },
+    {
+      "source": "gemini",
+      "level": "carbon dioxide",
+      "question": "and water from the soil, use sunlight as an engine, and create their own food (glucose) and the oxygen we need to live. It's a beautiful, essential cycle.\""
+    },
+    {
+      "source": "gemini",
+      "level": "Unknown",
+      "question": "***"
+    }
+  ]
+}

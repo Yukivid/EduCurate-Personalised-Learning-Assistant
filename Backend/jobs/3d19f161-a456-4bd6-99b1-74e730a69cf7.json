@@ -1,0 +1,57 @@
+{
+  "job_id": "3d19f161-a456-4bd6-99b1-74e730a69cf7",
+  "status": "completed",
+  "message": "Question generation complete.",
+  "questions": [
+    {
+      "source": "t5",
+      "level": "Remembering: recall key facts and definitions",
+      "question": "How do you remember key facts and definitions from this text?"
+    },
+    {
+      "source": "t5",
+      "level": "Remembering: recall key facts and definitions",
+      "question": "What is the beginning point to understand how an image is made up of lots of pixels?"
+    },
+    {
+      "source": "t5",
+      "level": "Understanding: explain ideas or summarize concepts",
+      "question": "Explain ideas or summarize concepts from this text?"
+    },
+    {
+      "source": "t5",
+      "level": "Understanding: explain ideas or summarize concepts",
+      "question": "What is the first color that's going to be zero?"
+    },
+    {
+      "source": "t5",
+      "level": "Applying: use knowledge in new situations",
+      "question": "How can a computer represent two colors in a picture?"
+    },
+    {
+      "source": "t5",
+      "level": "Applying: use knowledge in new situations",
+      "question": "What is the last thing you need to know about for images?"
+    },
+    {
+      "source": "t5",
+      "level": "Analyzing: identify relationships or patterns",
+      "question": "Identify relationships or patterns questions from this text?"
+    },
+    {
+      "source": "t5",
+      "level": "Evaluating: make judgments based on criteria",
+      "question": "What is the resolution of the image?"
+    },
+    {
+      "source": "t5",
+      "level": "Evaluating: make judgments based on criteria",
+      "question": "What is the first step in creating an image?"
+    },
+    {
+      "source": "t5",
+      "level": "Creating: generate new ideas or propose solutions",
+      "question": "Generate 2 creating'?"
+    }
+  ]
+}

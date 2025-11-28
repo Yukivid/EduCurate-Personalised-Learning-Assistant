@@ -1,0 +1,79 @@
+[build-system]
+requires = ["setuptools>=65.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "auto-eval"
+version = "1.0.0"
+description = "Agentic auto-grading pipeline with LangChain + A2A + MCP"
+readme = "README.md"
+authors = [{ name = "AutoEval Team", email = "autoeval@example.com" }]
+license = { text = "MIT" }
+requires-python = ">=3.10"
+
+dependencies = [
+  "langchain>=0.2.0",
+  "langchain-core>=0.2.0",
+  "langchain-community>=0.2.0",
+  "langchain-openai>=0.1.0",
+  "langchain-google-genai>=2.0.0",
+  "langgraph>=0.2.0",
+  "faiss-cpu>=1.7.4; platform_system != 'Darwin' or platform_machine != 'arm64'",
+  "chromadb>=0.5.0",
+  "pydantic>=2.5",
+  "pydantic-settings>=2.1.0",
+  "python-dotenv>=1.0.0",
+  "typer[all]>=0.12",
+  "rich>=13.7",
+  "uvicorn>=0.30",
+  "fastapi>=0.115",
+  "mcp[fastapi]>=0.1.2",
+  "tenacity>=8.2.0"
+]
+
+[project.optional-dependencies]
+dev = [
+  "pytest>=7.4.0",
+  "pytest-cov>=4.1.0",
+  "pytest-asyncio>=0.21.0",
+  "black>=23.12.0",
+  "ruff>=0.1.9",
+  "mypy>=1.8.0",
+]
+
+[project.urls]
+Homepage = "https://github.com/your-org/auto-eval"
+Repository = "https://github.com/your-org/auto-eval"
+Documentation = "https://your-org.github.io/auto-eval"
+
+[project.scripts]
+# Main Typer CLI — entrypoint for running via command line
+auto-eval = "auto_eval.pipeline.cli:app"
+
+# Shortcut alias for convenience
+auto-eval-run = "auto_eval.pipeline.cli:app"
+
+# FastAPI / MCP server launcher (for uvicorn)
+auto-eval-server = "auto_eval.server.mcp_server:app"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+include = ["auto_eval*"]
+
+[tool.setuptools.package-data]
+"auto_eval" = ["py.typed"]
+
+[tool.black]
+line-length = 120
+target-version = ["py310"]
+
+[tool.ruff]
+line-length = 120
+target-version = "py310"
+
+[tool.mypy]
+python_version = "3.10"
+strict = true
+warn_unused_ignores = true
+warn_return_any = true
+warn_unused_configs = true

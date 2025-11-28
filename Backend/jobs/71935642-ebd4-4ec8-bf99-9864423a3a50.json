@@ -1,0 +1,57 @@
+{
+  "job_id": "71935642-ebd4-4ec8-bf99-9864423a3a50",
+  "status": "completed",
+  "message": "Question generation complete.",
+  "questions": [
+    {
+      "source": "t5",
+      "level": "Remembering: recall key facts and definitions",
+      "question": "How do you remember key facts and definitions from this text?"
+    },
+    {
+      "source": "t5",
+      "level": "Remembering: recall key facts and definitions",
+      "question": "How is a neural network trained to recognize handwritten digits?"
+    },
+    {
+      "source": "t5",
+      "level": "Understanding: explain ideas or summarize concepts",
+      "question": "Explain ideas or summarize concepts from this text?"
+    },
+    {
+      "source": "t5",
+      "level": "Understanding: explain ideas or summarize concepts",
+      "question": "What is the first limitation of deep learning?"
+    },
+    {
+      "source": "t5",
+      "level": "Applying: use knowledge in new situations",
+      "question": "How does deep learning differ from machine learning?"
+    },
+    {
+      "source": "t5",
+      "level": "Applying: use knowledge in new situations",
+      "question": "How is deep learning applied in medical care?"
+    },
+    {
+      "source": "t5",
+      "level": "Analyzing: identify relationships or patterns",
+      "question": "Where is deep learning applied?"
+    },
+    {
+      "source": "t5",
+      "level": "Analyzing: identify relationships or patterns",
+      "question": "What is the purpose of this video?"
+    },
+    {
+      "source": "t5",
+      "level": "Evaluating: make judgments based on criteria",
+      "question": "What is a subset of machine learning?"
+    },
+    {
+      "source": "t5",
+      "level": "Evaluating: make judgments based on criteria",
+      "question": "What are the criteria questions in this text?"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+Here are five questions based on the lecture transcript, ordered according to Bloom's Taxonomy.
+
+**1. (Remembering)**
+According to the lecture, what are two examples of metadata that can be included with an image file?
+
+**2. (Understanding)**
+Explain in your own words the trade-off a user makes when they decide to increase an image's resolution.
+
+**3. (Applying)**
+Using the principles described in the lecture, calculate the total number of bits required to store a 10x10 pixel image that uses a 1-bit color depth (i.e., only two colors).
+
+**4. (Analyzing)**
+Compare the way an increase in resolution affects an image file to the way an increase in color depth affects an image file. How are their effects on image quality and file size similar?
+
+**5. (Creating)**
+Design the binary representation for a 2x2 pixel image that displays a simple diagonal line. You must use a 2-bit color depth (four possible colors). Include a key that shows which binary code (00, 01, 10, 11) corresponds to which color in your design.

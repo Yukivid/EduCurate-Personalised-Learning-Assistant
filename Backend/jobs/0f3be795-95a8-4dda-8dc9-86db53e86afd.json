@@ -1,0 +1,57 @@
+{
+  "job_id": "0f3be795-95a8-4dda-8dc9-86db53e86afd",
+  "status": "completed",
+  "message": "Question generation complete.",
+  "questions": [
+    {
+      "source": "t5",
+      "level": "Remembering: recall key facts and definitions",
+      "question": "How does a machine remember key facts and definitions from this text?"
+    },
+    {
+      "source": "t5",
+      "level": "Remembering: recall key facts and definitions",
+      "question": "How is a neural network trained to recognize handwritten digits?"
+    },
+    {
+      "source": "t5",
+      "level": "Understanding: explain ideas or summarize concepts",
+      "question": "Explain ideas or summarize concepts from this text?"
+    },
+    {
+      "source": "t5",
+      "level": "Understanding: explain ideas or summarize concepts",
+      "question": "What is the first limitation of deep learning?"
+    },
+    {
+      "source": "t5",
+      "level": "Applying: use knowledge in new situations",
+      "question": "What is the difference between deep learning and machine learning?"
+    },
+    {
+      "source": "t5",
+      "level": "Applying: use knowledge in new situations",
+      "question": "How is deep learning different from machine learning?"
+    },
+    {
+      "source": "t5",
+      "level": "Analyzing: identify relationships or patterns",
+      "question": "What is a subset of machine learning?"
+    },
+    {
+      "source": "t5",
+      "level": "Analyzing: identify relationships or patterns",
+      "question": "How is deep learning applied in medical care?"
+    },
+    {
+      "source": "t5",
+      "level": "Evaluating: make judgments based on criteria",
+      "question": "What are the criteria for deep learning?"
+    },
+    {
+      "source": "t5",
+      "level": "Evaluating: make judgments based on criteria",
+      "question": "What is the input layer of a neural network?"
+    }
+  ]
+}

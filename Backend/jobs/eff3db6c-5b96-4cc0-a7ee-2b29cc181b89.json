@@ -1,0 +1,57 @@
+{
+  "job_id": "eff3db6c-5b96-4cc0-a7ee-2b29cc181b89",
+  "status": "completed",
+  "message": "Question generation complete.",
+  "questions": [
+    {
+      "source": "t5",
+      "level": "Remembering: recall key facts and definitions",
+      "question": "What is the name of the song that Paul likes or dislikes?"
+    },
+    {
+      "source": "t5",
+      "level": "Remembering: recall key facts and definitions",
+      "question": "How can we classify song A?"
+    },
+    {
+      "source": "t5",
+      "level": "Understanding: explain ideas or summarize concepts",
+      "question": "Explain ideas or summarize concepts questions from this text?"
+    },
+    {
+      "source": "t5",
+      "level": "Understanding: explain ideas or summarize concepts",
+      "question": "What is the name of the basic machine learning algorithm?"
+    },
+    {
+      "source": "t5",
+      "level": "Applying: use knowledge in new situations",
+      "question": "How does Paul decide if he likes or dislikes a new song?"
+    },
+    {
+      "source": "t5",
+      "level": "Applying: use knowledge in new situations",
+      "question": "How does machine learning help us classify a song?"
+    },
+    {
+      "source": "t5",
+      "level": "Analyzing: identify relationships or patterns",
+      "question": "What is Paul's choice of a new song?"
+    },
+    {
+      "source": "t5",
+      "level": "Analyzing: identify relationships or patterns",
+      "question": "How does the machine learn the currency of a coin?"
+    },
+    {
+      "source": "t5",
+      "level": "Evaluating: make judgments based on criteria",
+      "question": "Makes judgments based on criteria questions?"
+    },
+    {
+      "source": "t5",
+      "level": "Evaluating: make judgments based on criteria",
+      "question": "What is the difference between supervised learning and unsupervised learning?"
+    }
+  ]
+}

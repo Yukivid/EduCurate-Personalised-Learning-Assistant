@@ -1,0 +1,57 @@
+{
+  "job_id": "88fa5c20-6944-4ce4-87d5-29c24b834939",
+  "status": "completed",
+  "message": "Question generation complete.",
+  "questions": [
+    {
+      "source": "gemini",
+      "level": "Unknown",
+      "question": "Of course. Please provide the lecture transcript you would like me to use."
+    },
+    {
+      "source": "gemini",
+      "level": "Unknown",
+      "question": "Once you paste the transcript, I will generate the 5 questions based on its content."
+    },
+    {
+      "source": "gemini",
+      "level": "Unknown",
+      "question": "In the meantime, here is a **template example** using a hypothetical lecture about the causes of the Roman Empire's decline. You can see how the questions build in complexity."
+    },
+    {
+      "source": "gemini",
+      "level": "Unknown",
+      "question": "***"
+    },
+    {
+      "source": "gemini",
+      "level": "Unknown",
+      "question": "### **Example based on a hypothetical lecture on the Fall of Rome:**"
+    },
+    {
+      "source": "gemini",
+      "level": "Remembering",
+      "question": "**"
+    },
+    {
+      "source": "gemini",
+      "level": "Unknown",
+      "question": "According to the lecture, list three economic problems that contributed to the decline of the Roman Empire."
+    },
+    {
+      "source": "gemini",
+      "level": "Understanding",
+      "question": "**"
+    },
+    {
+      "source": "gemini",
+      "level": "Unknown",
+      "question": "In your own words, explain how the lecture connects the concept of \"barbarian invasions\" to the Empire's internal political instability."
+    },
+    {
+      "source": "gemini",
+      "level": "Applying",
+      "question": "**"
+    }
+  ]
+}

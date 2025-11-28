@@ -1,0 +1,57 @@
+{
+  "job_id": "98d9d7e1-2c1e-49f3-96a9-ceddd4313fd8",
+  "status": "completed",
+  "message": "Question generation complete.",
+  "questions": [
+    {
+      "source": "t5",
+      "level": "Remembering: recall key facts and definitions",
+      "question": "Recall key facts and definitions questions from this text?"
+    },
+    {
+      "source": "t5",
+      "level": "Remembering: recall key facts and definitions",
+      "question": "How do we remember key facts and definitions from this text?"
+    },
+    {
+      "source": "t5",
+      "level": "Understanding: explain ideas or summarize concepts",
+      "question": "Explain ideas or summarize concepts from this text?"
+    },
+    {
+      "source": "t5",
+      "level": "Understanding: explain ideas or summarize concepts",
+      "question": "Used to explain ideas or summarize concepts?"
+    },
+    {
+      "source": "t5",
+      "level": "Applying: use knowledge in new situations",
+      "question": "Use knowledge in new situations questions from this text?"
+    },
+    {
+      "source": "t5",
+      "level": "Applying: use knowledge in new situations",
+      "question": "Use knowledge in new situations?"
+    },
+    {
+      "source": "t5",
+      "level": "Analyzing: identify relationships or patterns",
+      "question": "Identify relationships or patterns questions from this text?"
+    },
+    {
+      "source": "t5",
+      "level": "Analyzing: identify relationships or patterns",
+      "question": "Use?"
+    },
+    {
+      "source": "t5",
+      "level": "Evaluating: make judgments based on criteria",
+      "question": "Make judgments based on criteria questions from this text?"
+    },
+    {
+      "source": "t5",
+      "level": "Creating: generate new ideas or propose solutions",
+      "question": "Generate new ideas or propose solutions questions from this text?"
+    }
+  ]
+}

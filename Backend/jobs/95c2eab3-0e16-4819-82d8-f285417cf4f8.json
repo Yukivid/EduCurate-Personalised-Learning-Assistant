@@ -1,0 +1,57 @@
+{
+  "job_id": "95c2eab3-0e16-4819-82d8-f285417cf4f8",
+  "status": "completed",
+  "message": "Question generation complete.",
+  "questions": [
+    {
+      "source": "t5",
+      "level": "Remembering: recall key facts and definitions",
+      "question": "What does Generate 2 remembering: recall key facts and definitions questions from this text?"
+    },
+    {
+      "source": "t5",
+      "level": "Remembering: recall key facts and definitions",
+      "question": "What is the name of machine learning?"
+    },
+    {
+      "source": "t5",
+      "level": "Understanding: explain ideas or summarize concepts",
+      "question": "Generate 2 understanding: explain ideas or summarize concepts questions from this text?"
+    },
+    {
+      "source": "t5",
+      "level": "Understanding: explain ideas or summarize concepts",
+      "question": "When expert systems hit a critical mass, they became more popularized."
+    },
+    {
+      "source": "t5",
+      "level": "Applying: use knowledge in new situations",
+      "question": "What is one of the most frequently asked questions about AI?"
+    },
+    {
+      "source": "t5",
+      "level": "Applying: use knowledge in new situations",
+      "question": "What does Generate 2 apply: use knowledge in new situations?"
+    },
+    {
+      "source": "t5",
+      "level": "Analyzing: identify relationships or patterns",
+      "question": "Generate 2 analyzing: identify relationships or patterns questions from this text?"
+    },
+    {
+      "source": "t5",
+      "level": "Analyzing: identify relationships or patterns",
+      "question": "What is one of the most recent advancements in the field of artificial intelligence?"
+    },
+    {
+      "source": "t5",
+      "level": "Evaluating: make judgments based on criteria",
+      "question": "What does Generate 2 evaluate: make judgments based on criteria questions from this text?"
+    },
+    {
+      "source": "t5",
+      "level": "Evaluating: make judgments based on criteria",
+      "question": "What does Generate 2 evaluating do?"
+    }
+  ]
+}

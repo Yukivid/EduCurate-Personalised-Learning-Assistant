@@ -1,0 +1,4 @@
+[console_scripts]
+auto-eval = auto_eval.pipeline.cli:app
+auto-eval-run = auto_eval.pipeline.cli:app
+auto-eval-server = auto_eval.server.mcp_server:app

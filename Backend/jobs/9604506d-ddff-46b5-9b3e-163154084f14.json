@@ -1,0 +1,57 @@
+{
+  "job_id": "9604506d-ddff-46b5-9b3e-163154084f14",
+  "status": "completed",
+  "message": "Question generation complete.",
+  "questions": [
+    {
+      "source": "gemini",
+      "level": "Remembering",
+      "question": "**"
+    },
+    {
+      "source": "gemini",
+      "level": "ANN",
+      "question": "for image classification?"
+    },
+    {
+      "source": "gemini",
+      "level": "Understanding",
+      "question": "**"
+    },
+    {
+      "source": "gemini",
+      "level": "like an \"eye detector\"",
+      "question": "makes a neural network \"location invariant,\" meaning it can find the feature regardless of where it is in the image."
+    },
+    {
+      "source": "gemini",
+      "level": "Applying",
+      "question": "**"
+    },
+    {
+      "source": "gemini",
+      "level": "Unknown",
+      "question": "Imagine you have the following 4x4 feature map. Based on the lecture's description of a 2x2 max pooling operation with a stride of 2, what would the new, smaller feature map look like?"
+    },
+    {
+      "source": "gemini",
+      "level": "Unknown",
+      "question": "[[4, 8, 3, 1],"
+    },
+    {
+      "source": "gemini",
+      "level": "Unknown",
+      "question": "[2, 6, 5, 9],"
+    },
+    {
+      "source": "gemini",
+      "level": "Unknown",
+      "question": "[7, 1, 10, 2],"
+    },
+    {
+      "source": "gemini",
+      "level": "Unknown",
+      "question": "[5, 3, 4, 12]]"
+    }
+  ]
+}
