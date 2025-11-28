@@ -159,8 +159,8 @@ Before you begin, ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/KishoreLOL21/EduCurate_Learning_Application.git
-cd EduCurate_Learning_Application
+git clone https://github.com/Yukivid/Personalised-Learning-Assistant.git
+cd Personalised-Learning-Assistant
 ```
 
 ### 2. Backend Setup
@@ -448,7 +448,7 @@ If you like EduCurate, consider giving the repo a star ⭐ on GitHub — it help
 
 ## 👥 Authors
 
-- **KishoreLOL21** - [GitHub](https://github.com/KishoreLOL21)
+- **Deepesh** - [GitHub](https://github.com/Yukivid)
 
 ---
 
