@@ -1,0 +1,13 @@
+# Python backend
+Backend/.venv/
+.venv/
+venv/
+__pycache__/
+*.pyc
+# Secrets
+.env
+.env.*
+!.env.example
+# Node / Next.js
+node_modules/
+.next/
